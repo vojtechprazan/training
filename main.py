@@ -11,6 +11,7 @@ def main():
     print("Hello")
     another_hello()
     hello()
+    new_hello()
 
 if __name__ == "__main__":
     main()
