@@ -1,3 +1,6 @@
+def hello():
+    print("Hello from hello")
+
 def main():
     print("Hello")
 
