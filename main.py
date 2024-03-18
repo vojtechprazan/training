@@ -4,6 +4,9 @@ def hello():
 def new_hello():
     print("new hello")
 
+def another_hello():
+    print("another hello")
+
 def main():
     print("Hello")
 
