@@ -8,8 +8,6 @@ def another_hello():
     print("another hello")
 
 def main():
-    print("Hello")
-    another_hello()
     hello()
 
 if __name__ == "__main__":
