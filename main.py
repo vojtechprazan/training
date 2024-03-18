@@ -9,6 +9,7 @@ def another_hello():
 
 def main():
     hello()
+    new_hello()
 
 if __name__ == "__main__":
     main()
